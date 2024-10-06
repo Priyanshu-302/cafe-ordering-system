@@ -1,1 +1,2 @@
 # cafe-ordering-system
+Cafe Management System: This project is designed to streamline the operations of a cafe by providing functionalities such as menu management, order processing, and inventory tracking. Users can easily add or update menu items, process customer orders, and manage stock levels. The system aims to enhance efficiency, improve customer service, and provide insights through reports. Built using [technologies used], this application is perfect for small to medium-sized cafes looking to modernize their management processes.
